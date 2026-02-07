@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Yashaswini 👋
+
+🎓 1st-year Robotics & AI student at JNNCE  
+💻 Currently learning Python & GitHub  
+🤖 Interested in AI, Robotics & Automation  
+
+🌱 Building projects step by step  
+🚀 Goal: High-impact tech career
 
 <!--
 **Yashaswini929/Yashaswini929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
